@@ -1,7 +1,3 @@
-# c
+# C
 
-Este repositorio contiene los ejercicios que he utilizado para practicar la lógica de programación y tener un acercamiento con el lenguaje c.
-
-## Autor
-
-- [Brayan Rincon](https://github.com/brayanrbx)
+Este repositorio contiene los ejercicios que he realizado para practicar la lógica de programación con C.
